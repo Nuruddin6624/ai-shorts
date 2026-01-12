@@ -1,0 +1,8 @@
+{
+  "name": "ViralShorts AI Factory",
+  "description": "A powerful AI-driven tool to automatically extract viral YouTube Shorts from your long-form videos with Bangla and English captions, SEO tags, and thumbnail ideas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
